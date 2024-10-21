@@ -10,7 +10,7 @@ const getTags = (tags = [], onDelete, readOnly, disabled, labelRemove) =>
     const { _id, label, tagClassName, dataset, tagLabel } = tag
     return (
       <li
-        className={['tag-item', tagClassName].filter(Boolean).join(' ')}
+        className={['tag-item-list', tagClassName].filter(Boolean).join(' ')}
         key={`tag-item-${_id}`}
         {...getDataset(dataset)}
       >

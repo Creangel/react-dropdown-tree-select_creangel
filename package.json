@@ -1,5 +1,5 @@
 {
-  "name": "react-dropdown-tree-select",
+  "name": "react-dropdown-tree-select_creangel",
   "version": "0.0.0-semantic-release",
   "description": "Lightweight, customizable and fast Dropdown Tree Select component for React",
   "keywords": [
@@ -20,7 +20,7 @@
   ],
   "main": "dist/react-dropdown-tree-select.js",
   "types": "dist/react-dropdown-tree-select.d.ts",
-  "repository": "https://github.com/dowjones/react-dropdown-tree-select.git",
+  "repository": "https://github.com/Creangel/react-dropdown-tree-select_creangel.git",
   "author": "Hrusikesh Panda <hrusikesh.panda@dowjones.com>",
   "license": "MIT",
   "scripts": {
